@@ -1,0 +1,90 @@
+{
+    "provider": {
+        "name": "Counter-Strike: Global Offensive",
+        "appid": 730,
+        "version": 13833,
+        "steamid": "76561198017746855",
+        "timestamp": 1655144086
+    },
+    "map": {
+        "mode": "competitive",
+        "name": "de_mirage",
+        "phase": "live",
+        "round": 3,
+        "team_ct": {
+            "score": 2,
+            "consecutive_round_losses": 0,
+            "timeouts_remaining": 1,
+            "matches_won_this_series": 0
+        },
+        "team_t": {
+            "score": 1,
+            "consecutive_round_losses": 2,
+            "timeouts_remaining": 0,
+            "matches_won_this_series": 0
+        },
+        "num_matches_to_win_series": 0,
+        "current_spectators": 0,
+        "souvenirs_total": 0,
+        "round_wins": {
+            "1": "t_win_bomb",
+            "2": "ct_win_elimination",
+            "3": "ct_win_elimination"
+        }
+    },
+    "round": {
+        "phase": "freezetime"
+    },
+    "player": {
+        "steamid": "76561198017746855",
+        "name": "pereiraBR",
+        "observer_slot": 6,
+        "team": "T",
+        "activity": "playing",
+        "state": {
+            "health": 100,
+            "armor": 0,
+            "helmet": false,
+            "flashed": 0,
+            "smoked": 0,
+            "burning": 0,
+            "money": 3950,
+            "round_kills": 0,
+            "round_killhs": 0,
+            "equip_value": 200
+        },
+        "match_stats": {
+            "kills": 2,
+            "assists": 1,
+            "deaths": 3,
+            "mvps": 0,
+            "score": 5
+        },
+        "weapons": {
+            "weapon_0": {
+                "name": "weapon_knife_t",
+                "paintkit": "default",
+                "type": "Knife",
+                "state": "holstered"
+            },
+            "weapon_1": {
+                "name": "weapon_glock",
+                "paintkit": "default",
+                "type": "Pistol",
+                "ammo_clip": 20,
+                "ammo_clip_max": 20,
+                "ammo_reserve": 120,
+                "state": "holstered"
+            },
+            "weapon_2": {
+                "name": "weapon_c4",
+                "paintkit": "default",
+                "type": "C4",
+                "state": "active"
+            }
+        }
+    },
+    "auth": {
+        "token": "no_password"
+    }
+}
